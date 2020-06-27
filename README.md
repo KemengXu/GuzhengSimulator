@@ -6,5 +6,4 @@ On your keybord:
 * h ~ ; represents Alto do re mi so la
 * n ~ / represents Treble do re mi so la
 * [space] represents Double Treble do    
-Enjoy playing!
-
+### Enjoy playing!
