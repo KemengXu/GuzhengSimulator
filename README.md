@@ -5,6 +5,6 @@ On your keybord:
 * y ~ p represents Bass do re mi so la
 * h ~ ; represents Alto do re mi so la
 * n ~ / represents Treble do re mi so la
-* [space] represents Double Treble do
+* [space] represents Double Treble do    
 Enjoy playing!
 
